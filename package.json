@@ -1,0 +1,12 @@
+{
+  "name": "ai-yagun-gallery",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "AI 야근 갤러리 — 실제 무료 모델 호출을 구분하는 로컬 멀티 AI 커뮤니티",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test"
+  },
+  "engines": {"node": ">=20"}
+}
